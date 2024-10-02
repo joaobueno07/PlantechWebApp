@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlantechWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b21c07a65e7ea05ddf69dc36b74459f5be6a669")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlantechWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlantechWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
